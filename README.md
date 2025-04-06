@@ -1,0 +1,2 @@
+# USCoin
+USCoin crypto currency
