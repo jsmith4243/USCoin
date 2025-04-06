@@ -1,0 +1,14 @@
+{
+  "name": "USCoin",
+  "symbol": "USC",
+  "description": "United States Coin ",
+  "image": "https://ds5lud3keq2cvfowbbl2ys54br2dye4jkflro7r2fkydciu5t3ha.arweave.net/HLq6D2okNCqV1ghXrEu8DHQ8E4lRVxd-OiqwMSKdns4",
+  "properties": {
+    "creators": [
+      {
+        "address": "83KqYzhC199X1YhYbq5SJierAsaK82RPiTwQDsvA5CpS",
+        "share": 100
+      }
+    ]
+  }
+}
